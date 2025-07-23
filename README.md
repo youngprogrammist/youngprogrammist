@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>15 yoshdagi Python dasturchi</b> <br>
+  <b>15 yoshli Python dasturchiman</b> <br>
   Telegram botlar | Web loyihalar 
 </p>
 
