@@ -1,4 +1,4 @@
-<h1 align="center">Salom, men Abdugofurov Behruzbek 👋</h1>
+<h1 align="center">Salom, men Abdugofurov Behruzbek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"> </h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>Orta yoshdagi Python dasturchi</b> <br>
-  Telegram botlar | Web loyihalar | Sun’iy intellektga qiziqaman
+  Telegram botlar | Web loyihalar 
 </p>
 
 ---
@@ -14,38 +14,11 @@
 ## 🧑‍💻 Men haqimda
 
 - 🇺🇿 O'zbekistondanman
-- 💼 Asosiy yo‘nalishim: Python + Telegram botlar
-- 🔭 Hozirda quyidagi loyihalar ustida ishlayapman
-- 🎯 Maqsadim: Dasturchilar jamiyatiga foydali loyihalar yaratish
+- 💼 Asosiy yo‘nalishim: Python + Va boshqalar
+- 🔭 Hozirda bazi bir loyhalar ustida ishlayapman
+- 🎯 Maqsadim: Katta dasturchi bo'lish
 
 ---
-
-## 🚀 Loyiha(lar)
-
-### 📦 [Qur'on Telegram Bot](https://github.com/youngprogrammist/Quran-Bot)
-Musulmon foydalanuvchilar uchun qulay Telegram bot:
-- Suralarni tanlash tugmalari bilan.
-- Tarjimasi va audiosi bilan chiqadi.
-- `/start` va `Yordam` menyosi mavjud.
-
-### 📦 [Yuk tashish e'lon bot](https://github.com/youngprogrammist/ShippingBot)
-Logistika e'lonlarini avtomatik formatlaydi:
-- Shaxsiy raqamni `👉 Номерни кўриш 👈` tugmasi bilan yashiradi.
-- E'lonlarni aniqlab, professional ko‘rinishda qayta chiqaradi.
-- Guruh, kanal va shaxsiy chatlarda ishlaydi.
-
-### 📦 [Yangi e'lon funksiyasi](https://github.com/youngprogrammist/ShippingBot)
-Foydalanuvchi bosqichma-bosqich e'lon yaratadi:
-- Bot ketma-ket savollar beradi (qaerdan, qayerga, yuk turi, transport, narx, telefon).
-- So‘ngra avtomatik tayyor e’lon sifatida chiqaradi.
-
-### 📦 [Cyrillic Format Bot](https://github.com/youngprogrammist/ShippingBot)
-- Har qanday e’lonni lotinchadan kirillchaga o‘giradi.
-- Telefon raqamni aniqlab, yashirib beradi.
-- Reklama matnini zamonaviy shaklga soladi.
-
----
-
 ## 📫 Bog‘lanish
 
 <p>
@@ -61,9 +34,6 @@ Foydalanuvchi bosqichma-bosqich e'lon yaratadi:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Aiogram](https://img.shields.io/badge/Aiogram-2196F3?style=flat&logo=telegram&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-e34c26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-264de4?style=flat&logo=css3&logoColor=white)
-![Render](https://img.shields.io/badge/Render-000000?style=flat&logo=render&logoColor=white)
-![Replit](https://img.shields.io/badge/Replit-667881?style=flat&logo=replit&logoColor=white)
 
 ---
 
