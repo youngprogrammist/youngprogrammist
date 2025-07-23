@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>Orta yoshdagi Python dasturchi</b> <br>
-  Telegram botlar | Web loyihalar 
+  Telegram botlar | Web loyihalar | Sun’iy intellektga qiziqaman
 </p>
 
 ---
@@ -14,18 +14,35 @@
 ## 🧑‍💻 Men haqimda
 
 - 🇺🇿 O'zbekistondanman
-- 💼 Asosiy yo‘nalishim: Python + Va boshqalar
-- 🔭 Hozirda: Bazi bir loyhalar ustida ishlayapman
-- 🎯 Maqsadim: Katta dasturch bo'lish
+- 💼 Asosiy yo‘nalishim: Python + Telegram botlar
+- 🔭 Hozirda quyidagi loyihalar ustida ishlayapman
+- 🎯 Maqsadim: Dasturchilar jamiyatiga foydali loyihalar yaratish
 
 ---
 
 ## 🚀 Loyiha(lar)
 
-| Loyiha nomi | Tavsifi | Link |
-|------------|---------|------|
-| 📦 **Qur'on Telegram Bot** | Foydalanuvchiga sura tarjimasi va audio beradi | [GitHub sahifa](https://github.com/youngprogrammist/Quran-Bot) |
-| 📦 **Yuk e'lon Bot** | E'lonlarni formatlab, kontaktni tugmaga yashiradi | [GitHub sahifa](https://github.com/youngprogrammist/ShippingBot) |
+### 📦 [Qur'on Telegram Bot](https://github.com/youngprogrammist/Quran-Bot)
+Musulmon foydalanuvchilar uchun qulay Telegram bot:
+- Suralarni tanlash tugmalari bilan.
+- Tarjimasi va audiosi bilan chiqadi.
+- `/start` va `Yordam` menyosi mavjud.
+
+### 📦 [Yuk tashish e'lon bot](https://github.com/youngprogrammist/ShippingBot)
+Logistika e'lonlarini avtomatik formatlaydi:
+- Shaxsiy raqamni `👉 Номерни кўриш 👈` tugmasi bilan yashiradi.
+- E'lonlarni aniqlab, professional ko‘rinishda qayta chiqaradi.
+- Guruh, kanal va shaxsiy chatlarda ishlaydi.
+
+### 📦 [Yangi e'lon funksiyasi](https://github.com/youngprogrammist/ShippingBot)
+Foydalanuvchi bosqichma-bosqich e'lon yaratadi:
+- Bot ketma-ket savollar beradi (qaerdan, qayerga, yuk turi, transport, narx, telefon).
+- So‘ngra avtomatik tayyor e’lon sifatida chiqaradi.
+
+### 📦 [Cyrillic Format Bot](https://github.com/youngprogrammist/ShippingBot)
+- Har qanday e’lonni lotinchadan kirillchaga o‘giradi.
+- Telefon raqamni aniqlab, yashirib beradi.
+- Reklama matnini zamonaviy shaklga soladi.
 
 ---
 
@@ -33,7 +50,7 @@
 
 <p>
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/email-grey?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://t.me/username"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/behruzbek_75"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://github.com/youngprogrammist"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
@@ -45,6 +62,8 @@
 ![Aiogram](https://img.shields.io/badge/Aiogram-2196F3?style=flat&logo=telegram&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-e34c26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-264de4?style=flat&logo=css3&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=flat&logo=render&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-667881?style=flat&logo=replit&logoColor=white)
 
 ---
 
@@ -52,4 +71,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=youngprogrammist&show_icons=true&theme=tokyonight" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=youngprogrammist&theme=tokyonight" width="48%"/>
 </p>
-
