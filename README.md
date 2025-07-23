@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Orta yoshdagi Python dasturchi</b> <br>
+  <b>15 yoshdagi Python dasturchi</b> <br>
   Telegram botlar | Web loyihalar 
 </p>
 
@@ -22,7 +22,6 @@
 ## 📫 Bog‘lanish
 
 <p>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/email-grey?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://t.me/behruzbek_75"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://github.com/youngprogrammist"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
