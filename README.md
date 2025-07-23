@@ -1,4 +1,4 @@
-<h1 align="center">Salom, men Abdulla Halimov 👋</h1>
+<h1 align="center">Salom, men Abdugofurov Behruzbek 👋</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>Orta yoshdagi Python dasturchi</b> <br>
-  Telegram botlar | Web loyihalar | AIga qiziqish
+  Telegram botlar | Web loyihalar 
 </p>
 
 ---
@@ -14,9 +14,9 @@
 ## 🧑‍💻 Men haqimda
 
 - 🇺🇿 O'zbekistondanman
-- 💼 Asosiy yo‘nalishim: Python + Telegram botlar
-- 🔭 Hozirda: [Qur'on Bot](https://github.com/youngprogrammist/Quran-Bot) ustida ishlayapman
-- 🎯 Maqsadim: O‘zbek dasturchilar jamiyatini rivojlantirish
+- 💼 Asosiy yo‘nalishim: Python + Va boshqalar
+- 🔭 Hozirda: Bazi bir loyhalar ustida ishlayapman
+- 🎯 Maqsadim: Katta dasturch bo'lish
 
 ---
 
